@@ -32,9 +32,9 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://github.com/yuhldr/lfy",
-                    "tag": "v0.0.3",
-                    "commit": "bd11c7fcd010bc3ed8b1afbc81784eeda521a756"
+                    "url": "https://github.com/ldrfy/lfy",
+                    "tag": "v0.0.6",
+                    "commit": "10016e6708da7135a87692fca094e3e440cc3a22"
                 }
             ]
         }
