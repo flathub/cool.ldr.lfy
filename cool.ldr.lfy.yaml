@@ -1,10 +1,9 @@
 app-id: "cool.ldr.lfy"
 runtime: "org.gnome.Platform"
-runtime-version: "45"
+runtime-version: "46"
 sdk: "org.gnome.Sdk"
 command: "lfy"
 finish-args:
-  - "--share=ipc"
   - "--share=network"
   - "--socket=fallback-x11"
   - "--device=dri"
@@ -28,5 +27,5 @@ modules:
     sources:
       - type: "git"
         url: "https://github.com/ldrfy/lfy"
-        tag: "v0.0.6"
-        commit: "10016e6708da7135a87692fca094e3e440cc3a22"
+        tag: "v0.0.7"
+        commit: "539da17a16d6cb37c26780f12c553f3ae0ab898f"
