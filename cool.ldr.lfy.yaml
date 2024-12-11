@@ -1,6 +1,6 @@
 app-id: "cool.ldr.lfy"
 runtime: "org.gnome.Platform"
-runtime-version: "46"
+runtime-version: "47"
 sdk: "org.gnome.Sdk"
 command: "lfy"
 finish-args:
@@ -28,5 +28,5 @@ modules:
     sources:
       - type: "git"
         url: "https://github.com/ldrfy/lfy"
-        tag: "v0.0.7"
-        commit: "539da17a16d6cb37c26780f12c553f3ae0ab898f"
+        tag: "v0.1.0"
+        commit: "5140f2e2f910c8c99b026661b0c0840c6a3b9389"
