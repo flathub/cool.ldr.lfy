@@ -28,5 +28,5 @@ modules:
     sources:
       - type: "git"
         url: "https://github.com/ldrfy/lfy"
-        tag: "v0.1.0"
-        commit: "5140f2e2f910c8c99b026661b0c0840c6a3b9389"
+        tag: "v0.2.0"
+        commit: "ff8a19601c125eddd7cc820b61ba8b67c72c1045"
